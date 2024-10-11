@@ -1,0 +1,23 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+p, li {
+    font-size: 1.1rem;
+}
+
+.card-title {
+    color: #ff6347;
+}
+
+footer {
+    margin-top: 50px;
+    border-radius: 10px;
+}
